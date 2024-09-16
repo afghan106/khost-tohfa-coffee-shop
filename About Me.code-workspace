@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../CoffeeShop/About Me"
+		},
+		{
+			"path": "../CoffeeShop/about-us"
+		},
+		{
+			"path": "../CoffeeShop/css"
+		},
+		{
+			"path": "../CoffeeShop/img"
+		},
+		{
+			"path": "../CoffeeShop/js"
+		},
+		{
+			"path": "../CoffeeShop/lib"
+		},
+		{
+			"path": "../CoffeeShop/mail"
+		},
+		{
+			"path": "../CoffeeShop/scss"
+		}
+	]
+}
